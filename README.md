@@ -1,5 +1,6 @@
 ### Welcome to my GitHub! 👋
 Currently I am a DevOps engineer who has evolved from system administrator and PL/SQL developer. <br/>
+Main languages: Go, PL/SQL, Powershell <br/>
 Follow the [link]() to get my detailed CV.<br/>
 ##### Possibly something useful
 Pet projects will be listed here :) <br/>
