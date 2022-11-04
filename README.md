@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋
+Now I am a DevOps engineer, previously I was a PL/SQL developer, and even more previously a system administrator.
+My CV can be viewed [here]().
+# Possibly something useful
+I plan to list my personal projects here when they appear :)
+While there are a few [gists](https://gist.github.com/rawboogie)
 
-<!--
-**rawboogie/rawboogie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Добро подаловать в мой GitHub! 👋
+Сейчас я DevOps инженер, раньше был PL/SQL разработчиком, а еще раньше системным администратором.
+Основные языки: Go, PL/SQL, Powershell
+Мой CV можно посмотреть [тут]().
+# Возможно чем-то полезное
+Планирую тут указать список личных проектов когда они появится :)
+Пока есть немного [гистов](https://gist.github.com/rawboogie) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contacts
+https://www.linkedin.com/in/pehterev/
+https://t.me/rawboo
