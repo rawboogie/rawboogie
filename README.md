@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**rawboogie/rawboogie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome to my GitHub! 👋
+Currently I am a DevOps engineer who has evolved from system administrator and PL/SQL developer. <br/>
+Main languages: Go, PL/SQL, Powershell <br/>
+Follow the [link](https://github.com/rawboogie/rawboogie/blob/main/cv.pdf) to get my detailed CV.<br/>
+##### Possibly something useful
+Pet projects will be listed here :) <br/>
+Meanwhile see some of my [gists](https://gist.github.com/rawboogie)
+<br/><br/>
+### Contacts
+https://www.linkedin.com/in/pehterev/ <br/>
+https://t.me/rawboo
